@@ -1,0 +1,7 @@
+{
+  "workbench.preferredDarkColorTheme": "Default Dark+",
+  "auto-close-tag.activationOnLanguage": ["javascriptreact"],
+  "files.associations": {
+    "*.js": "javascriptreact"
+  }
+}
